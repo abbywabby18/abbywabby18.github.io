@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+}
+
+#green{
+    background-color: green;
+}
+
+#red{background-color: red;} 
+
+#black{background-color: grey}
+
+#white{background-color: rgb(142, 202, 255);}
+
+p{
+    font-family: cursive; 
+}
+
+.citation{
+    font-family: cursive;
+    
+}
+
+#intro{
+    font-family: cursive;
+} 
+img{
+    width:40%
+}
